@@ -34,6 +34,9 @@ The website showcases essential sections that a real café website would contain
 
 # Line Demo :
 https://ummeruhi.github.io/SCT_UI_1/
+
+---
+
 # 🎯 Objectives
 
 The main objectives of this redesign were:
